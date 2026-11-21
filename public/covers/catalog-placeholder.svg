@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 720" role="img" aria-labelledby="title">
+  <title id="title">Bìa truyện minh họa trừu tượng</title>
+  <rect width="480" height="720" fill="#e8efe8"/>
+  <circle cx="344" cy="180" r="115" fill="#d5a66c" opacity=".85"/>
+  <path d="M0 495c94-94 180-61 261-6s145 57 219-22v253H0Z" fill="#4d7766"/>
+  <path d="M0 575c90-59 165-46 245 5 78 50 151 53 235 3v137H0Z" fill="#294c43"/>
+  <path d="M74 0h34v720H74z" fill="#f7f5eb" opacity=".7"/>
+  <path d="M115 0h4v720h-4z" fill="#294c43" opacity=".25"/>
+</svg>
